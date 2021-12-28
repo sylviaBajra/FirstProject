@@ -13,6 +13,10 @@ how to :ref:`installation` the project.
 
    This project seems like its working.
    
+.. note::
+
+   This is another note.
+   
 Contents
 --------
 
